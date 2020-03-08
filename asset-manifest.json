@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_todo_list/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react_todo_list/static/js/main.2e0e4964.chunk.js",
+    "main.js.map": "/react_todo_list/static/js/main.2e0e4964.chunk.js.map",
+    "runtime-main.js": "/react_todo_list/static/js/runtime-main.4e2a8adc.js",
+    "runtime-main.js.map": "/react_todo_list/static/js/runtime-main.4e2a8adc.js.map",
+    "static/css/2.460acc31.chunk.css": "/react_todo_list/static/css/2.460acc31.chunk.css",
+    "static/js/2.87c93aea.chunk.js": "/react_todo_list/static/js/2.87c93aea.chunk.js",
+    "static/js/2.87c93aea.chunk.js.map": "/react_todo_list/static/js/2.87c93aea.chunk.js.map",
+    "index.html": "/react_todo_list/index.html",
+    "precache-manifest.13709f75435ea94d15f402ae83d00ba1.js": "/react_todo_list/precache-manifest.13709f75435ea94d15f402ae83d00ba1.js",
+    "service-worker.js": "/react_todo_list/service-worker.js",
+    "static/css/2.460acc31.chunk.css.map": "/react_todo_list/static/css/2.460acc31.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react_todo_list/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.87c93aea.chunk.js.LICENSE.txt": "/react_todo_list/static/js/2.87c93aea.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/react_todo_list/static/media/fa-solid-900.cdfec5cf.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e2a8adc.js",
+    "static/css/2.460acc31.chunk.css",
+    "static/js/2.87c93aea.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2e0e4964.chunk.js"
+  ]
+}
